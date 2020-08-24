@@ -1,2 +1,2 @@
 # SignalGen
-Random generator of signals with changing slope at certain timepoints.
+Random generator of signals with random slopes at random timepoints.
