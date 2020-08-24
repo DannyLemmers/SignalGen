@@ -15,7 +15,7 @@ dividor = np.random.randint(2,5)
 for i in range(dividor):
     adder = np.random.randint(1,10)
     scaler.append(adder)
-randconval= np.random.randint(1,25)
+randconval= round(np.random.randint(1,250),-1)
 
 dt=1
 startx=0
